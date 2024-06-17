@@ -9,9 +9,9 @@ export const Hero = () => {
   ];
 
   return (
-    <section className="overflow-hidden w-full xl:h-[88vh] bg-[#080831] h-[80vh] md:px-[5%] relative flex items-center justify-center font-press-start">
+    <section className="overflow-hidden w-full xl:h-[88vh] bg-[#000319] h-[80vh] md:px-[5%] relative flex items-center justify-center font-press-start">
       <div className=" xl:w-[50%] flex flex-col gap-7 xl:gap-4 items-start">
-        <div className="text-white text-2xl font-semibold">Hi, I'm <span className="text-[#ff5823]">Chamaththa Shamod</span></div>
+        <div className="text-white text-2xl font-semibold">Hi, I'm <span className="text-[#cbacf9]">Chamaththa Shamod</span></div>
         <div className="text-center text-white text-3xl h-[50px] mt-5 font-semibold ">
           <TypingEffect
             sentences={sentences}

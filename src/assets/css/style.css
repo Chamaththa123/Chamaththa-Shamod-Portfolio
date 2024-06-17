@@ -3,7 +3,7 @@
 @import "tailwindcss/utilities";
 
 body {
-  @apply font-inter overflow-x-hidden;
+  @apply font-sans overflow-x-hidden;
 }
 .nav-item {
   position: relative;
